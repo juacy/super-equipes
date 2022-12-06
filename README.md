@@ -1,7 +1,7 @@
 # SUPER-EQUIPES
 
  1. [CARRASCOS](carrascos.md)
- 2. DEFENSORES
+ 2. [DEFENSORES](defensores.md)
  3. FUNDAÇÃO FUTURO
  4. X-MEN
  5. QUARTETO FANTÁSTICO
